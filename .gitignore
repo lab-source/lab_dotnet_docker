@@ -1,0 +1,11 @@
+﻿obj
+bin/Release/net7.0/appsettings.Development.json
+bin/Release/net7.0/appsettings.json
+bin/Release/net7.0/DockerTesting.deps.json
+bin/Release/net7.0/DockerTesting.dll
+bin/Release/net7.0/DockerTesting.exe
+bin/Release/net7.0/DockerTesting.pdb
+bin/Release/net7.0/DockerTesting.runtimeconfig.json
+bin/Release/net7.0/DockerTesting.staticwebassets.runtime.json
+bin/Debug
+bin
